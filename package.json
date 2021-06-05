@@ -1,0 +1,23 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "test site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DBTO1970/my-fun-git-project.git"
+  },
+  "author": "Don Barto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DBTO1970/my-fun-git-project/issues"
+  },
+  "homepage": "https://github.com/DBTO1970/my-fun-git-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  }
+}
